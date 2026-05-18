@@ -1,1 +1,77 @@
+ElectroniTech Manufacturing Co. Dataset 
 
+* Data Source:
+
+1. **Customer.csv**: 
+
+This dataset contains information about customers. It's useful for understanding customer demographics and their membership status.
+
+- **`C_ID`**: Customer ID
+- **`M_ID`**: Membership ID
+- **`C_NAME`**: Customer Name
+- **`C_EMAIL_ID`**: Customer Email ID
+- **`C_TYPE`**: Customer Type
+- **`C_ADDR`**: Customer Address
+- **`C_CONT_NO`**: Customer Contact Number
+
+2. **Employee_Details.csv**:
+
+This dataset includes details of employees. It provides insights into the workforce distribution, roles, and contact information.
+
+- **`E_ID`**: Employee ID
+- **`E_NAME`**: Employee Name
+- **`E_DESIGNATION`**: Employee Designation
+- **`E_ADDR`**: Employee Address
+- **`E_BRANCH`**: Employee Branch
+- **`E_CONT_NO`**: Employee Contact Number
+
+3. **employee_manages_shipment.csv**:
+
+This dataset links employees with shipments they manage. It's crucial for analyzing which employees are responsible for managing specific shipments and their statuses.
+
+- **`Employee_E_ID`**: Employee ID
+- **`Shipment_Sh_ID`**: Shipment ID
+- **`Status_Sh_ID`**: Status ID for the Shipment
+
+4. **Membership.csv**:
+
+This dataset tracks membership details. This data is useful for understanding the duration of customer memberships.
+
+- **`M_ID`**: Membership ID
+- **`Start_date`**: Start date of the membership
+- **`End_date`**: End date of the membership
+
+5. **Payment_Details.csv**:
+
+This dataset records payment transactions. It is essential for financial analysis, tracking payment statuses and methods.
+
+- **`Payment_ID`**: Unique ID for each payment
+- **`C_ID`**: Customer ID
+- **`SH_ID`**: Shipment ID
+- **`AMOUNT`**: Payment Amount
+- **`Payment_Status`**: Status of the Payment (e.g., PAID, NOT PAID)
+- **`Payment_Mode`**: Mode of Payment (e.g., CARD PAYMENT, COD)
+- **`Payment_Date`**: Date of Payment
+
+6. **Shipment_Details.csv**:
+
+This dataset provides comprehensive information about shipments. It offers insights into the logistics of shipment, including types, weights, charges, and destinations.
+
+- **`SH_ID`**: Shipment ID
+- **`C_ID`**: Customer ID
+- **`SH_CONTENT`**: Content of the Shipment
+- **`SH_DOMAIN`**: Domain of the Shipment (e.g., Domestic, International)
+- **`SER_TYPE`**: Service Type (e.g., Regular, Express)
+- **`SH_WEIGHT`**: Weight of the Shipment
+- **`SH_CHARGES`**: Charges for the Shipment
+- **`SR_ADDR`**: Source Address
+- **`DS_ADDR`**: Destination Address
+
+7. **Status.csv**:
+
+This dataset focuses on the status of shipments. It's useful for tracking the progress and delivery status of shipments.
+
+- **`SH_ID`**: Shipment ID
+- **`Current_Status`**: Current status of the shipment (e.g., DELIVERED, NOT DELIVERED)
+- **`Sent_date`**: Date when the shipment was sent
+- **`Delivery_date`**: Date when the shipment was delivered (if applicable)
