@@ -1,20 +1,22 @@
 ElectroniTech Manufacturing Co. Dataset 
 
+
+
 * Data Source:
 
-1. **Customer.csv**: 
+1. **Customer.csv** : 
 
 This dataset contains information about customers. It's useful for understanding customer demographics and their membership status.
 
-- **`C_ID`**: Customer ID
-- **`M_ID`**: Membership ID
-- **`C_NAME`**: Customer Name
-- **`C_EMAIL_ID`**: Customer Email ID
-- **`C_TYPE`**: Customer Type
-- **`C_ADDR`**: Customer Address
-- **`C_CONT_NO`**: Customer Contact Number
+- **`C_ID`** : Customer ID
+- **`M_ID`** : Membership ID
+- **`C_NAME`** : Customer Name
+- **`C_EMAIL_ID`** : Customer Email ID
+- **`C_TYPE`** : Customer Type
+- **`C_ADDR`** : Customer Address
+- **`C_CONT_NO`** : Customer Contact Number
 
-2. **Employee_Details.csv**:
+2. **Employee_Details.csv** :
 
 This dataset includes details of employees. It provides insights into the workforce distribution, roles, and contact information.
 
