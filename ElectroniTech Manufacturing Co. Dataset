@@ -35,45 +35,45 @@ This dataset links employees with shipments they manage. It's crucial for analyz
 - **`Shipment_Sh_ID`**: Shipment ID
 - **`Status_Sh_ID`**: Status ID for the Shipment
 
-4. **Membership.csv**:
+4. **Membership.csv** :
 
 This dataset tracks membership details. This data is useful for understanding the duration of customer memberships.
 
-- **`M_ID`**: Membership ID
-- **`Start_date`**: Start date of the membership
-- **`End_date`**: End date of the membership
+- **`M_ID`** : Membership ID
+- **`Start_date`** : Start date of the membership
+- **`End_date`** : End date of the membership
 
-5. **Payment_Details.csv**:
+5. **Payment_Details.csv** :
 
 This dataset records payment transactions. It is essential for financial analysis, tracking payment statuses and methods.
 
-- **`Payment_ID`**: Unique ID for each payment
-- **`C_ID`**: Customer ID
-- **`SH_ID`**: Shipment ID
-- **`AMOUNT`**: Payment Amount
-- **`Payment_Status`**: Status of the Payment (e.g., PAID, NOT PAID)
-- **`Payment_Mode`**: Mode of Payment (e.g., CARD PAYMENT, COD)
-- **`Payment_Date`**: Date of Payment
+- **`Payment_ID`** : Unique ID for each payment
+- **`C_ID`** : Customer ID
+- **`SH_ID`** : Shipment ID
+- **`AMOUNT`** : Payment Amount
+- **`Payment_Status`** : Status of the Payment (e.g., PAID, NOT PAID)
+- **`Payment_Mode`** : Mode of Payment (e.g., CARD PAYMENT, COD)
+- **`Payment_Date`** : Date of Payment
 
-6. **Shipment_Details.csv**:
+6. **Shipment_Details.csv** :
 
 This dataset provides comprehensive information about shipments. It offers insights into the logistics of shipment, including types, weights, charges, and destinations.
 
-- **`SH_ID`**: Shipment ID
-- **`C_ID`**: Customer ID
-- **`SH_CONTENT`**: Content of the Shipment
-- **`SH_DOMAIN`**: Domain of the Shipment (e.g., Domestic, International)
-- **`SER_TYPE`**: Service Type (e.g., Regular, Express)
-- **`SH_WEIGHT`**: Weight of the Shipment
-- **`SH_CHARGES`**: Charges for the Shipment
-- **`SR_ADDR`**: Source Address
-- **`DS_ADDR`**: Destination Address
+- **`SH_ID`** : Shipment ID
+- **`C_ID`** : Customer ID
+- **`SH_CONTENT`** : Content of the Shipment
+- **`SH_DOMAIN`** : Domain of the Shipment (e.g., Domestic, International)
+- **`SER_TYPE`** : Service Type (e.g., Regular, Express)
+- **`SH_WEIGHT`** : Weight of the Shipment
+- **`SH_CHARGES`** : Charges for the Shipment
+- **`SR_ADDR`** : Source Address
+- **`DS_ADDR`** : Destination Address
 
-7. **Status.csv**:
+7. **Status.csv** :
 
 This dataset focuses on the status of shipments. It's useful for tracking the progress and delivery status of shipments.
 
-- **`SH_ID`**: Shipment ID
-- **`Current_Status`**: Current status of the shipment (e.g., DELIVERED, NOT DELIVERED)
-- **`Sent_date`**: Date when the shipment was sent
-- **`Delivery_date`**: Date when the shipment was delivered (if applicable)
+- **`SH_ID`** : Shipment ID
+- **`Current_Status`** : Current status of the shipment (e.g., DELIVERED, NOT DELIVERED)
+- **`Sent_date`** : Date when the shipment was sent
+- **`Delivery_date`** : Date when the shipment was delivered (if applicable)
