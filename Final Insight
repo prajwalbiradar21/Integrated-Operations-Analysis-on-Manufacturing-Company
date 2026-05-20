@@ -1,0 +1,112 @@
+📌 Project Overview
+A full end-to-end data analysis project on a logistics and shipment operations dataset from ElectroniTech Manufacturing Co.
+The project covers the complete data analytics pipeline — from raw CSV files to an interactive Excel dashboard — using Python, SQL, and Excel.
+This project was built as a personal portfolio piece to demonstrate real-world data analysis skills across the full workflow.
+
+🎯 Business Questions Answered
+#Question Answer
+Q1 Which customer type generates the most revenue? - vRetail — ₹37,04,901 (39% of total)
+Q2What is the delivery success rate by service type?  -v50% overall — Express & Regular split equally
+Q3Which shipment domain has more volume? - Domestic — 109 shipments vs International — 91
+Q4Which payment mode drives more revenue? - COD — ₹52,55,359 (55%) vs Card — ₹42,33,750 (45%)
+Q5Who is the top performing employee? - Bryce — 3 shipments managed (highest)
+
+📊 Key KPIs
+
+Metric Value
+💰 Total Revenue ₹94,89,109
+👥 Total Customers 200
+📦 Total Shipments 200
+✅ Delivery Rate 50%
+💳 Avg Payment per Customer ₹47,445
+⚖️ Avg Shipment Weight 522 kg
+🏷️ Avg Shipment Charge ₹937.97
+📈 Avg Shipment Efficiency 0.54
+🏆 Highest Paying Customer Philip — ₹99,604
+
+🗂️ Dataset Description
+7 raw CSV files covering customers, shipments, payments, employees, and status tracking.
+Table Rows  KeyColumns
+Customer.csv 200 C_ID, C_NAME, C_TYPE, C_EMAIL_ID, M_ID
+Membership.csv 200 M_ID, Start_date, End_date
+Shipment_Details.csv 200 SH_ID, SH_CONTENT, SH_DOMAIN, SER_TYPE, SH_WEIGHT, SH_CHARGES
+Payment_Details.csv 200 Payment_ID, C_ID, AMOUNT, Payment_Status, 
+Payment_ModeStatus.csv 200 SH_ID, Current_Status, Sent_date, Delivery_date 
+Employee_Details.csv 200 E_ID, E_NAME, E_DESIGNATION, E_BRANCH
+employee_manages_shipment.csv 200 Employee_E_ID, Shipment_Sh_ID
+
+
+Entity Relationship
+Membership ──< Customer >──< Shipment_Details >── Status
+                    │               │
+               Payment_Details   Employee_manages_Shipment
+                                        │
+                                  Employee_Details
+
+🛠️ Tools & Technologies
+Tool Purpose 
+Python (pandas, numpy) - Data cleaning, transformation, EDA, merging
+SQLite (via Python)SQL queries — JOINs, GROUP BY, CASE WHEN, subqueries
+Excel (Pivot Tables + Slicers) - Interactive 4-sheet dashboard 
+Matplotlib / Seaborn - Exploratory visualizations
+openpyxl - Programmatic Excel export
+
+📁 Project Structure
+logistics-analysis/
+│
+├── data/
+│   ├── raw/                        # Original 7 CSV files
+│   └── processed/
+│       ├── Customer_payments.csv   # Customer + Membership + Payment merged
+│       ├── ShipmentStatus.csv      # Shipment + Status merged
+│       └── Employee_efficiency.csv # Employee + EMS merged
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb   # Phase 2 — EDA
+│   ├── 02_sql_analysis.ipynb       # Phase 3 — SQL queries
+│   ├── 03_python_analysis.ipynb    # Phase 4 — Deep analysis
+│   └── 04_visualizations.ipynb    # Phase 5 — Charts
+│
+├── dashboard/
+│   └── Cleaned_ElectroniTech_Manufacturing_Co_Dataset.xlsx
+│
+└── README.md
+
+🔍 Analysis Phases
+Phase 1 — Problem Definition
+
+Mapped 7-table ERD to understand relationships
+Defined 5 business questions to drive the analysis
+
+Phase 2 — Data Exploration (EDA)
+
+Loaded all CSVs in pandas, checked shape, dtypes, nulls, duplicates
+Converted date columns from object to datetime64
+Normalized customer names with .str.title() and emails with .str.lower()
+
+Phase 3 — SQL Analysis
+
+Loaded data into SQLite using sqlite3 + pandas
+Wrote queries using JOINs, GROUP BY, CASE WHEN, HAVING, subqueries
+Key queries: revenue by customer type, delivery rate, avg charges by service type
+
+Phase 4 — Python Deep Analysis
+
+Merged tables using pd.merge() with appropriate join types
+Created derived columns: PaymentCategory, ShipmentEfficiency, CustomerAge, Delivery_days
+Segment analysis: customer types, payment modes, shipment domains
+
+Phase 5 — Excel Dashboard (4 sheets)
+Sheet  | Contents 
+Overall Dashboard | 8 KPI cards + 4 summary charts + 2 slicers
+Customer Analysis | Revenue by type, payment mode split, top 10 customers, PaymentCategory distribution
+Shipment & Logistics | Delivery status, domain breakdown, efficiency analysis, weight vs charges
+Employee Performance | Top employees by shipments, branch headcount, designation breakdown
+
+💡 Key Insights
+
+1.Retail customers are the most valuable segment — generating ₹37L (39% of revenue) despite being slightly more in count. Wholesale customers contribute the least (₹23.6L) and may need targeted engagement.
+2.50% delivery failure rate is a major operational red flag. Half the shipments are either not delivered or delayed — this directly correlates with the 50% unpaid payment rate.
+3.COD is the dominant payment mode (55% of revenue) but carries higher non-payment risk. Encouraging card payments could reduce outstanding collections.
+4.Domestic shipments outnumber international (109 vs 91) but international shipments tend to have higher charges — a potential growth segment worth investing in.
+5.Shipment efficiency varies significantly across content categories — Healthcare and Luggage show the highest weight-to-charge ratios, while Electronics and Automotive are the least efficient.
