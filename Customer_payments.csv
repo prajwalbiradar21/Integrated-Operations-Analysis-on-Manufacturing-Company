@@ -1,0 +1,201 @@
+C_ID,C_NAME,C_TYPE,C_AGE,Payment_Mode,Payment_Status,Payment_Date,PaymentCategory,Total_Payment
+1334,Philip,"Internal Goods",16,COD,PAID,2010-11-30,High,99604
+175,Rayshawn,Wholesale,44,"CARD PAYMENT","NOT PAID",,High,99492
+207,Boyd,Retail,9,COD,PAID,2005-09-15,High,99367
+2154,Catherine,Wholesale,52,COD,"NOT PAID",,High,99239
+3,Janelle,"Internal Goods",32,"CARD PAYMENT","NOT PAID",,High,98982
+6772,Chasity,Wholesale,50,COD,PAID,2009-09-29,High,96963
+4060,Gordon,Wholesale,41,"CARD PAYMENT",PAID,1987-08-09,High,96496
+3042,Cecile,Wholesale,53,COD,PAID,1991-05-15,High,95516
+2183,Dennis,"Internal Goods",52,"CARD PAYMENT",PAID,2003-12-02,High,94926
+5489,Lita,Retail,50,COD,PAID,2002-09-08,High,93642
+805,Korie,Retail,12,COD,"NOT PAID",,High,91926
+5209,Peyton,Retail,7,COD,PAID,1976-08-31,High,91842
+8887,Lola,Retail,45,"CARD PAYMENT",PAID,2009-03-09,High,90449
+6361,Dinah,"Internal Goods",27,"CARD PAYMENT",PAID,1993-08-02,High,90380
+4789,Eunice,"Internal Goods",10,COD,"NOT PAID",,High,89846
+7253,Frank,"Internal Goods",47,COD,PAID,2004-03-02,High,89420
+4732,Julie,"Internal Goods",46,COD,"NOT PAID",,High,89389
+4628,Darrel,Retail,16,COD,"NOT PAID",,High,88092
+8104,Annie,Wholesale,14,"CARD PAYMENT","NOT PAID",,High,88037
+7043,Laurette,Retail,23,COD,"NOT PAID",,High,87886
+9792,Curtis,Retail,32,COD,PAID,2014-09-09,High,87828
+9631,Eriana,Retail,15,COD,"NOT PAID",,High,87420
+7342,Jonathan,Wholesale,25,COD,"NOT PAID",,High,87400
+4103,Paola,"Internal Goods",54,COD,"NOT PAID",,High,86767
+3622,Eddie,"Internal Goods",8,"CARD PAYMENT",PAID,2019-03-01,High,86132
+390,Destiny,Retail,16,COD,PAID,2013-11-15,High,86040
+8747,Trey,Retail,20,COD,PAID,1998-09-11,High,85889
+2066,Catherine,Retail,21,COD,"NOT PAID",,High,84665
+7164,Otis,Retail,45,COD,PAID,1989-09-17,High,83253
+1211,Neri,"Internal Goods",14,COD,"NOT PAID",,High,83102
+8106,Matthew,Retail,31,"CARD PAYMENT",PAID,1999-03-05,High,83002
+9271,Joel,Retail,26,COD,"NOT PAID",,High,81148
+8894,Daren,Wholesale,17,"CARD PAYMENT","NOT PAID",,High,80901
+1275,Marion,Retail,26,COD,PAID,2010-03-09,High,80796
+2593,Willie,Wholesale,13,COD,PAID,2009-01-26,High,80179
+3089,Bianca,"Internal Goods",25,"CARD PAYMENT","NOT PAID",,High,78953
+3189,Reginald,Wholesale,12,"CARD PAYMENT",PAID,1997-07-10,High,78698
+6153,Franklin,Retail,43,"CARD PAYMENT",PAID,1997-09-08,High,77861
+2478,Adonis,"Internal Goods",23,"CARD PAYMENT",PAID,1983-09-30,High,77649
+4892,Jill,Wholesale,36,"CARD PAYMENT","NOT PAID",,High,77570
+8183,Wilbur,Retail,15,COD,"NOT PAID",,High,77342
+4296,Kandace,"Internal Goods",13,"CARD PAYMENT",PAID,2013-03-09,High,77063
+9423,Isabela,Retail,21,COD,"NOT PAID",,High,76658
+4551,Jaimee,Wholesale,17,"CARD PAYMENT","NOT PAID",,High,75766
+8933,Stanley,Retail,17,COD,PAID,2017-08-24,High,75362
+4899,Ronnie,"Internal Goods",17,COD,"NOT PAID",,High,74930
+4252,Joe,"Internal Goods",37,COD,"NOT PAID",,High,74338
+8927,Courtney,Wholesale,50,COD,PAID,2004-11-20,High,74222
+7146,Enrique,Wholesale,13,"CARD PAYMENT",PAID,2003-11-28,High,73874
+693,Stacy,"Internal Goods",19,"CARD PAYMENT","NOT PAID",,High,73589
+1215,Stacy,"Internal Goods",38,COD,PAID,2006-10-22,High,73561
+2096,Jennifer,"Internal Goods",41,"CARD PAYMENT",PAID,2012-08-20,High,73423
+3624,Douglas,"Internal Goods",9,"CARD PAYMENT",PAID,2015-03-20,High,73137
+7005,Dejon,Retail,55,"CARD PAYMENT","NOT PAID",,High,70814
+3782,Naisha,Retail,26,"CARD PAYMENT","NOT PAID",,High,69479
+2216,Jaylene,Retail,43,"CARD PAYMENT","NOT PAID",,High,69417
+114,Tiffany,"Internal Goods",44,COD,PAID,1991-07-15,High,69113
+8703,Carter,"Internal Goods",28,"CARD PAYMENT","NOT PAID",,High,68923
+8737,Mickey,Retail,42,COD,"NOT PAID",,High,68886
+6717,Emma,"Internal Goods",52,"CARD PAYMENT",PAID,1982-10-29,High,68331
+2972,Rosalind,Wholesale,11,"CARD PAYMENT",PAID,1977-07-06,High,68227
+2332,Sheryl,Retail,17,"CARD PAYMENT","NOT PAID",,High,67599
+3095,Stefania,Retail,54,"CARD PAYMENT","NOT PAID",,High,67478
+6210,Roxanne,Retail,16,COD,PAID,1991-07-03,High,67123
+9030,Fabiola,"Internal Goods",28,"CARD PAYMENT","NOT PAID",,High,66582
+3853,Frank,Retail,15,"CARD PAYMENT","NOT PAID",,High,66397
+9807,Max,Retail,21,"CARD PAYMENT",PAID,2001-08-03,High,63810
+7316,Gaylon,Retail,50,COD,"NOT PAID",,High,62912
+2220,Monte,Wholesale,25,COD,PAID,1976-06-30,High,62528
+359,Chelsey,"Internal Goods",40,COD,"NOT PAID",,High,62151
+1647,Bambi,"Internal Goods",34,"CARD PAYMENT",PAID,2000-03-22,High,61325
+4233,Abby,"Internal Goods",51,"CARD PAYMENT",PAID,1987-08-09,High,60282
+3221,Johnny,Retail,24,"CARD PAYMENT","NOT PAID",,High,59967
+3514,Claude,Wholesale,40,COD,PAID,2004-09-25,High,59651
+5197,Christa,"Internal Goods",31,COD,PAID,2012-01-17,High,59474
+3132,Bayley,Retail,49,COD,"NOT PAID",,High,59376
+2401,Demetrius,Wholesale,54,COD,PAID,1995-01-01,High,59176
+1246,Carlotta,Retail,30,COD,PAID,2019-07-31,High,58736
+8834,Dejon,"Internal Goods",38,"CARD PAYMENT","NOT PAID",,High,58511
+6732,Theresa,"Internal Goods",36,COD,PAID,1989-10-17,High,58470
+1126,Steve,Wholesale,24,COD,PAID,2010-03-02,High,57460
+4142,Debora,Retail,49,COD,PAID,1989-08-23,High,57138
+7633,Italia,"Internal Goods",40,"CARD PAYMENT",PAID,1971-11-01,High,56881
+3633,Glory,"Internal Goods",55,COD,PAID,2001-08-10,High,56148
+4711,Taryn,"Internal Goods",28,"CARD PAYMENT","NOT PAID",,High,53868
+1201,Sydney,"Internal Goods",38,COD,PAID,1983-07-22,High,52868
+8893,Magdalene,Retail,34,"CARD PAYMENT","NOT PAID",,High,52318
+3733,Reymundo,"Internal Goods",46,"CARD PAYMENT",PAID,1975-05-20,High,51472
+9968,Diana,Retail,51,"CARD PAYMENT","NOT PAID",,High,51284
+5781,Hellen,Retail,13,COD,"NOT PAID",,High,51104
+7771,Andre,Retail,24,COD,"NOT PAID",,High,51038
+4523,Tiffany,Wholesale,11,"CARD PAYMENT","NOT PAID",,High,50958
+6191,Julianna,Retail,45,COD,"NOT PAID",,High,50635
+8786,Marie,"Internal Goods",9,"CARD PAYMENT","NOT PAID",,High,50374
+5402,Claude,Retail,9,COD,"NOT PAID",,High,50357
+2969,Dianne,Retail,13,"CARD PAYMENT","NOT PAID",,High,49908
+230,Mitchell,"Internal Goods",47,"CARD PAYMENT",PAID,2014-12-18,High,49302
+6759,Julianna,"Internal Goods",54,"CARD PAYMENT","NOT PAID",,High,48873
+3140,Patrick,Wholesale,22,COD,PAID,2004-10-26,High,48657
+4852,Sophie,"Internal Goods",12,"CARD PAYMENT","NOT PAID",,High,48315
+3917,Larry,"Internal Goods",47,COD,PAID,1977-11-08,High,47650
+249,Rayshawn,Retail,16,"CARD PAYMENT",PAID,1982-03-08,High,47260
+1896,Bryn,Retail,49,COD,"NOT PAID",,High,47111
+1087,Lydia,Wholesale,18,COD,PAID,2018-08-30,High,45852
+2620,Eddie,Retail,20,COD,"NOT PAID",,High,45432
+2142,Rory,"Internal Goods",53,"CARD PAYMENT",PAID,2002-10-20,High,44807
+9784,Tianna,"Internal Goods",20,COD,PAID,2013-06-21,High,44299
+7861,Shemar,Wholesale,20,COD,PAID,2008-05-17,High,42257
+9636,Brennan,Wholesale,32,"CARD PAYMENT","NOT PAID",,High,42210
+2378,Lucien,"Internal Goods",38,"CARD PAYMENT",PAID,1972-06-16,High,42143
+2104,Amy,Wholesale,32,"CARD PAYMENT",PAID,1992-12-27,High,41456
+1202,Chasity,"Internal Goods",19,"CARD PAYMENT","NOT PAID",,High,41003
+1904,Stacie,"Internal Goods",32,COD,"NOT PAID",,High,39655
+1702,Eileen,Wholesale,16,COD,"NOT PAID",,High,39488
+5387,Brady,Retail,52,COD,PAID,2005-09-15,High,39432
+308,Morgan,Retail,28,"CARD PAYMENT",PAID,2006-07-17,High,39234
+4272,Muriel,Retail,12,COD,"NOT PAID",,High,39001
+5345,Kyleigh,Wholesale,29,COD,PAID,2010-08-28,High,38952
+2121,Holli,Wholesale,53,COD,PAID,1979-09-12,High,38290
+1424,George,Retail,42,"CARD PAYMENT","NOT PAID",,High,37660
+1724,Caitlin,"Internal Goods",43,"CARD PAYMENT",PAID,2004-05-17,High,37286
+4283,Louise,Wholesale,29,"CARD PAYMENT","NOT PAID",,High,36312
+2241,Clay,"Internal Goods",28,COD,"NOT PAID",,High,35634
+6404,Philip,"Internal Goods",31,COD,"NOT PAID",,High,35525
+8306,Zoie,Retail,16,"CARD PAYMENT","NOT PAID",,High,35369
+8404,Tammi,Wholesale,13,COD,"NOT PAID",,High,35185
+2037,Stephon,Wholesale,16,COD,"NOT PAID",,High,34832
+7540,Misael,Retail,18,COD,PAID,1980-03-16,High,34797
+5150,Todd,Wholesale,9,"CARD PAYMENT","NOT PAID",,High,33435
+310,Michaela,"Internal Goods",21,COD,"NOT PAID",,High,32800
+1748,Willie,"Internal Goods",13,COD,PAID,1992-11-01,High,32031
+7773,Aidan,"Internal Goods",41,COD,PAID,1985-01-31,High,30239
+1164,Maurice,"Internal Goods",43,COD,PAID,1994-04-09,High,30192
+7764,Albert,Wholesale,16,COD,"NOT PAID",,High,28987
+896,Frances,"Internal Goods",44,"CARD PAYMENT",PAID,2013-11-15,High,28701
+5894,Laverne,"Internal Goods",13,COD,"NOT PAID",,High,27741
+9645,Muriel,Wholesale,27,"CARD PAYMENT",PAID,2006-01-09,High,27590
+1278,Alonzo,Wholesale,49,COD,PAID,1977-11-08,High,27105
+6546,Isidro,Wholesale,16,COD,"NOT PAID",,High,26060
+3571,Claude,Retail,41,"CARD PAYMENT","NOT PAID",,High,25677
+9486,Kaitlyn,Wholesale,23,"CARD PAYMENT",PAID,2002-10-20,High,24856
+2159,Nigel,Retail,10,COD,PAID,2011-06-25,High,24449
+5578,Ray,Wholesale,22,"CARD PAYMENT","NOT PAID",,High,24053
+5543,Pierre,Wholesale,55,COD,"NOT PAID",,High,23921
+5330,Amelia,Retail,18,"CARD PAYMENT",PAID,2011-06-08,High,23055
+8103,Catherine,Retail,47,"CARD PAYMENT",PAID,2007-07-12,High,23003
+2525,Danielle,"Internal Goods",16,"CARD PAYMENT",PAID,1992-12-25,High,22261
+2601,Gwendolyn,Wholesale,44,"CARD PAYMENT","NOT PAID",,High,22214
+2208,Elvia,Retail,33,"CARD PAYMENT",PAID,2013-08-11,High,21972
+6713,Merna,Retail,22,COD,"NOT PAID",,High,21813
+9943,Juan,"Internal Goods",44,COD,"NOT PAID",,High,21639
+4988,Belle,Wholesale,14,"CARD PAYMENT","NOT PAID",,High,21021
+3172,Catherine,"Internal Goods",46,"CARD PAYMENT","NOT PAID",,High,21003
+4351,Alonzo,"Internal Goods",12,"CARD PAYMENT","NOT PAID",,High,20357
+9251,Sadie,Retail,21,COD,PAID,1977-03-30,High,20238
+6746,Tomeka,Wholesale,50,COD,PAID,2006-10-20,High,20194
+563,Brenda,Retail,51,COD,"NOT PAID",,High,20187
+6357,Adrianna,Retail,17,COD,"NOT PAID",,High,19804
+9377,Elena,"Internal Goods",23,COD,"NOT PAID",,High,19386
+5269,Steven,Retail,24,COD,"NOT PAID",,High,19346
+9598,Frank,"Internal Goods",42,COD,PAID,1982-10-15,High,18598
+6798,Rita,"Internal Goods",25,"CARD PAYMENT",PAID,1989-10-17,High,17651
+9934,Gabrielle,Retail,32,COD,PAID,1997-06-12,High,17035
+8249,Christy,Retail,31,"CARD PAYMENT",PAID,1996-09-13,High,16690
+5214,Velma,Retail,55,"CARD PAYMENT","NOT PAID",,High,16299
+3965,Gene,Retail,23,COD,PAID,2013-11-15,High,16113
+9177,Grover,Wholesale,16,"CARD PAYMENT",PAID,1996-05-01,High,15307
+2308,Peter,"Internal Goods",47,COD,PAID,2008-08-09,High,13740
+5958,Todd,Retail,52,COD,PAID,2004-09-25,High,13693
+6787,Genesis,Wholesale,26,"CARD PAYMENT","NOT PAID",,High,13394
+4920,Ricky,Retail,44,COD,"NOT PAID",,High,13169
+6767,Joe,Wholesale,15,COD,PAID,2012-10-04,High,12462
+2396,Miley,Retail,42,COD,PAID,2005-09-15,High,11223
+6225,Maurice,"Internal Goods",17,COD,PAID,2006-12-23,High,10366
+2257,Gabrielle,Retail,28,"CARD PAYMENT","NOT PAID",,High,10001
+4053,Lazaro,Retail,13,"CARD PAYMENT","NOT PAID",,High,9691
+9858,Jennie,Wholesale,24,COD,"NOT PAID",,High,9520
+2573,Bernadine,"Internal Goods",18,"CARD PAYMENT",PAID,2016-09-21,High,8206
+1897,Norma,Wholesale,47,"CARD PAYMENT","NOT PAID",,High,7389
+519,Rayburn,Retail,40,"CARD PAYMENT","NOT PAID",,High,7068
+584,Marie,Wholesale,50,"CARD PAYMENT","NOT PAID",,High,5769
+7513,Bruno,Wholesale,31,"CARD PAYMENT","NOT PAID",,High,5059
+4527,Austin,Wholesale,37,"CARD PAYMENT",PAID,2002-01-05,Medium,3951
+1303,Evan,"Internal Goods",44,COD,"NOT PAID",,Medium,3846
+4094,Rory,"Internal Goods",8,COD,"NOT PAID",,Medium,3725
+7485,Austin,Retail,47,"CARD PAYMENT",PAID,2010-04-27,Medium,3244
+3569,Mavis,Retail,10,"CARD PAYMENT",PAID,2014-07-02,Medium,3119
+8860,Zakariya,Retail,29,"CARD PAYMENT",PAID,1990-09-11,Medium,2988
+9917,Franklin,Wholesale,12,"CARD PAYMENT","NOT PAID",,Medium,2282
+4322,Lucien,"Internal Goods",25,COD,PAID,1995-08-23,Medium,1760
+515,Christina,Wholesale,9,"CARD PAYMENT",PAID,1987-04-30,Medium,1714
+6513,Sapphire,Retail,32,COD,PAID,2019-12-12,Medium,1421
+9770,Sonja,Wholesale,20,COD,PAID,1977-11-08,Low,987
+7828,Latasha,"Internal Goods",31,"CARD PAYMENT",PAID,2006-07-17,Low,894
+2656,Maurice,Wholesale,44,COD,"NOT PAID",,Low,806
+8808,Connie,Retail,24,"CARD PAYMENT","NOT PAID",,Low,766
+7587,Joseph,"Internal Goods",14,"CARD PAYMENT","NOT PAID",,Low,696
+3270,George,Retail,28,"CARD PAYMENT",PAID,1974-05-25,Low,559
+1980,Dani,Retail,49,COD,"NOT PAID",,Low,426
+2182,Paige,Retail,55,COD,"NOT PAID",,Low,312
