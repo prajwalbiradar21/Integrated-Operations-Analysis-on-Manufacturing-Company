@@ -1,5 +1,9 @@
 # Integrated-Operations-Analysis-on-Manufacturing-Company
-This Is end-to-end Data Analytics Project Done on Integrated Operations Analysis on Manufacturing Company
+
+
+SQL + Excel Operational Analytics Project for ElectroniTech Manufacturing Co. including ETL, dashboarding, KPI analysis, logistics insights, and customer analytics.
+
+
 ----------------------------------------------------------------------------------------------------------------------
 
 ### **ElectroniTech Manufacturing Co.** Dataset
